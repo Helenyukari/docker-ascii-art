@@ -21,6 +21,10 @@ Este container gera uma arte ASCII personalizada usando Python e inclui um times
 
 ##  Rodando localmente
 
+Clone o repositorio:
+```bash
+git clone https://github.com/Helenyukari/docker-ascii-art.git
+```
 ### Build da imagem
 
 ```bash
