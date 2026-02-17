@@ -6,4 +6,4 @@ COPY app.py .
 
 RUN pip install pyfiglet
 
-CMD ["python", "app.py"]
+ENTRYPOINT  ["python", "app.py"]
